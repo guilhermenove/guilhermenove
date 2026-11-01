@@ -136,6 +136,24 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
 | **OTIF logística** | Pedidos no prazo e sem ocorrência, com 3 calendários | 139 mil pedidos | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiYTU3NjlmOGMtMjdiMC00OWZhLTg2Y2UtYzQwNmJjNGE0MzkwIiwidCI6ImNmZGQ2YTU0LTE2ZDgtNGQyYS1iMzA5LTdiMWNiMDk0YzI0MyJ9) · [Repo](https://github.com/guilhermenove/dataanalysis/tree/main/otif-logistica) |
 | **Financeiro executivo** | ETL, modelo tabular e painel com insights documentados | ETL, modelo, insights | [Repo](https://github.com/guilhermenove/dataanalysis/tree/main/ev31-financeiro) |
 
+<details>
+<summary><b>Mais 8 painéis</b></summary>
+
+<br/>
+
+| Painel | Principais KPIs | Link |
+|---|---|---|
+| **Comercial** | Faturamento, ticket médio, conversão, top 10 clientes, meta vs realizado | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiNzZjMzg0Y2QtN2NjMS00YTE1LTk1MjEtOWE5MDdlZjA2M2QzIiwidCI6ImNmZGQ2YTU0LTE2ZDgtNGQyYS1iMzA5LTdiMWNiMDk0YzI0MyJ9) |
+| **Financeiro** | EBITDA, margem líquida, capital de giro, PMR, DRE gerencial | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiMzZkYTkyZjUtNWIwYy00MGM5LTkxODktYzY3MDc4ZmY3NjliIiwidCI6ImFkZWU1YzFhLTRjMjYtNDIyMC1iNWMwLTYwYmM2YjVhNWNkMiJ9) |
+| **Compras** | Lead time, savings, pedidos no prazo, curva ABC de fornecedores | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiNWUxMzZkYjQtNWY0Yy00YmQ2LThhNTktYjUwOGJlMjk2NmJiIiwidCI6ImFkZWU1YzFhLTRjMjYtNDIyMC1iNWMwLTYwYmM2YjVhNWNkMiJ9) |
+| **Estoque** | Cobertura, acuracidade, curva ABC, ruptura, ponto de pedido | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiM2I1ZGI1ZDMtODJhMi00NjIzLWEzMjYtYjA2Njc1MDc0ZTllIiwidCI6ImFkZWU1YzFhLTRjMjYtNDIyMC1iNWMwLTYwYmM2YjVhNWNkMiJ9) |
+| **Logística** | OTIF, custo por km, ocupação, tempo de ciclo, avarias | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiMTM4NDgwYzAtNDg0MS00YWUyLWFmZTYtZjk2MGQyNjc3ZTcxIiwidCI6ImFkZWU1YzFhLTRjMjYtNDIyMC1iNWMwLTYwYmM2YjVhNWNkMiJ9) |
+| **PCM** | OEE, MTBF, MTTR, retrabalho, disponibilidade | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiNThkZDYwNjUtNzM2YS00MjMzLTkzYmMtZmMzOTE0MzAyMDE2IiwidCI6ImFkZWU1YzFhLTRjMjYtNDIyMC1iNWMwLTYwYmM2YjVhNWNkMiJ9) |
+| **Sales Car** | Giro de estoque, margem por veículo, test drive/venda, mix de vendas | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiODMyNTU2ZTEtNmM5MC00YmM0LThjYzMtODdmOTQ3NTU2NWRlIiwidCI6ImFkZWU1YzFhLTRjMjYtNDIyMC1iNWMwLTYwYmM2YjVhNWNkMiJ9) |
+| **Vendas com SQL** | Análise temporal e segmentação com SQL sobre base pública | [Relatório](https://app.powerbi.com/view?r=eyJrIjoiM2RkNThjMTEtYzUwMy00YWNiLWExYzgtMDExMThhN2ExMDI2IiwidCI6ImFkZWU1YzFhLTRjMjYtNDIyMC1iNWMwLTYwYmM2YjVhNWNkMiJ9) |
+
+</details>
+
 ---
 
 ## Código aberto
