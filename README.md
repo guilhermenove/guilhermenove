@@ -1,21 +1,21 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4AA&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Dados%20%C2%B7%20Sistemas%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=56&descSize=18" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Dados%20%C2%B7%20Sistemas%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=56&descSize=18" width="100%" alt="Banner"/>
 </p>
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=640&height=45&lines=Analista+de+Dados+com+reporte+%C3%A0+Diretoria;Forecast+de+compras+para+comex;Lucro+por+nota%3A+de+3+dias+para+5+minutos;R%24+48+mil%2Fano+de+licen%C3%A7a+de+CRM+eliminada" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Analista+de+Dados+com+reporte+%C3%A0+Diretoria;Forecast+de+compras+para+comex;Lucro+por+nota%3A+de+3+dias+para+5+minutos;R%24+48+mil%2Fano+de+licen%C3%A7a+de+CRM+eliminada" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermeaugusto9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4AA" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
   </a>
   <a href="https://guilherme-augusto.vercel.app">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D4AA" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfólio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=guilhermenove&style=for-the-badge&color=00D4AA&label=VISITAS" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=guilhermenove&style=for-the-badge&color=58A6FF&label=VISITAS" alt="Visitas"/>
 </p>
 
 ---
@@ -73,11 +73,11 @@ Atuo na coleta, integração e análise de dados comerciais, financeiros e opera
 Plataforma de dados e IA que construí do zero e está em produção. Junta ERP, WMS, SEFAZ, porto, planilhas e WhatsApp num lugar só, e entrega análises, previsões e um assistente de IA para comercial, financeiro e comex.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/620%2B-commits-00D4AA?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/87%20mil-linhas%20de%20TypeScript-00D4AA?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/63-tabelas-00D4AA?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/357-testes-00D4AA?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/10-integra%C3%A7%C3%B5es-00D4AA?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/620%2B-commits-58A6FF?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/87%20mil-linhas%20de%20TypeScript-58A6FF?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/63-tabelas-58A6FF?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/357-testes-58A6FF?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/10-integra%C3%A7%C3%B5es-58A6FF?style=flat-square&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/repo-privado-30363D?style=flat-square"/>
 </p>
 
@@ -166,7 +166,7 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
       <img src="https://img.shields.io/badge/Deluge-30363D?style=flat-square&logo=zoho"/>
       <img src="https://img.shields.io/badge/OAuth2-30363D?style=flat-square"/>
       <a href="https://github.com/guilhermenove/zoho-stokki-conta-azul-integration">
-        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-00D4AA?style=flat-square&logo=github&logoColor=0D1117"/>
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -175,7 +175,7 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
       <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript"/>
       <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python"/>
       <a href="https://novello-etiquetas-fornecedor.vercel.app">
-        <img src="https://img.shields.io/badge/acessar-00D4AA?style=flat-square&logo=vercel&logoColor=0D1117"/>
+        <img src="https://img.shields.io/badge/acessar-58A6FF?style=flat-square&logo=vercel&logoColor=0D1117"/>
       </a>
     </td>
   </tr>
@@ -186,18 +186,18 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
 ## Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sqlite&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/Power%20Query-0D1117?style=for-the-badge&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/Vitest-0D1117?style=for-the-badge&logo=vitest&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=00D4AA"/>
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00D4AA"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sqlite&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Power%20Query-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Vitest-0D1117?style=for-the-badge&logo=vitest&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
 </p>
 
 <p align="center"><b>CRMs e sistemas</b></p>
@@ -220,18 +220,18 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermenove&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&locale=pt-br" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenove&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&locale=pt-br" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermenove&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenove&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guilhermenove&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=guilhermenove&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="Streak"/>
 </p>
 
 ## Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermenove&bg_color=0D1117&color=C9D1D9&line=00D4AA&point=FFFFFF&area=true&area_color=00D4AA&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermenove&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ## Troféus
@@ -256,13 +256,13 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermeaugusto9/">
-    <img src="https://img.shields.io/badge/LinkedIn-00D4AA?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
   </a>
   <a href="https://guilherme-augusto.vercel.app">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-00D4AA?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
   </a>
   <a href="https://github.com/guilhermenove">
-    <img src="https://img.shields.io/badge/GitHub-00D4AA?style=for-the-badge&logo=github&logoColor=0D1117"/>
+    <img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
   </a>
 </p>
 
@@ -272,5 +272,5 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
 </p>
