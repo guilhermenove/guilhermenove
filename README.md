@@ -179,6 +179,86 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
       </a>
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <h3>🧾 SEFAZ CT-e ETL</h3>
+      <p>Baixa os CT-e da SEFAZ com certificado digital, por NSU incremental, e lança o frete na planilha casando cada CT-e com a NF.</p>
+      <img src="https://img.shields.io/badge/SOAP-30363D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Certificado%20A1-30363D?style=flat-square"/>
+      <a href="https://github.com/guilhermenove/sefaz-cte-etl">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>🏛️ PNCP: vencedores de licitação</h3>
+      <p>Varre o Portal Nacional de Contratações Públicas, filtra itens por produto e traz quem ganhou e por quanto. Checkpoint e retomada.</p>
+      <img src="https://img.shields.io/badge/API%20p%C3%BAblica-30363D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-30363D?style=flat-square&logo=sqlite"/>
+      <a href="https://github.com/guilhermenove/pncp-licitacoes-scraper">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🚢 Radar TCP</h3>
+      <p>App web que monitora a programação de navios no Porto de Paranaguá e avisa por e-mail quando ETA ou atracação mudam.</p>
+      <img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square&logo=fastapi"/>
+      <img src="https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker"/>
+      <a href="https://github.com/guilhermenove/radar-tcp-navios">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>🤖 Assistente de compras com IA</h3>
+      <p>Cruza saldo do WMS, vendas e pedidos em aberto, projeta ruptura em 12 meses e pede ao Claude uma recomendação de compra.</p>
+      <img src="https://img.shields.io/badge/Anthropic%20API-30363D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CustomTkinter-30363D?style=flat-square"/>
+      <a href="https://github.com/guilhermenove/assistente-compras-ia">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📑 NF-e XML para Excel</h3>
+      <p>Lê XMLs de NF-e e sinaliza o cliente que, no mesmo mês, pagou menos e levou mais prazo. Prazo médio ponderado pelas parcelas.</p>
+      <img src="https://img.shields.io/badge/pandas-30363D?style=flat-square&logo=pandas"/>
+      <img src="https://img.shields.io/badge/openpyxl-30363D?style=flat-square"/>
+      <a href="https://github.com/guilhermenove/nfe-xml-para-excel">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>🔄 Vendas Conta Azul na planilha</h3>
+      <p>Puxa as vendas do ERP com imposto por item lido do XML da NF-e, sem duplicar e mantendo o layout que o Power BI já usava.</p>
+      <img src="https://img.shields.io/badge/OAuth2-30363D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/XML%20NF--e-30363D?style=flat-square"/>
+      <a href="https://github.com/guilhermenove/protheus-sheets-sync">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📦 Controle de estoque consignado</h3>
+      <p>App desktop para mercadoria em consignação: remessa entra, faturamento sai, nota anexada e exportação em Excel.</p>
+      <img src="https://img.shields.io/badge/SQLite-30363D?style=flat-square&logo=sqlite"/>
+      <img src="https://img.shields.io/badge/Tkinter-30363D?style=flat-square"/>
+      <a href="https://github.com/guilhermenove/controle-estoque-consignado">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>📊 Dashboards Power BI</h3>
+      <p>Funil de vendas, DRE, vendas e margem com YoY, OTIF e financeiro executivo, com ETL e modelagem documentados.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-30363D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/DAX-30363D?style=flat-square"/>
+      <a href="https://github.com/guilhermenove/dataanalysis">
+        <img src="https://img.shields.io/badge/ver%20c%C3%B3digo-58A6FF?style=flat-square&logo=github&logoColor=0D1117"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
