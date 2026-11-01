@@ -15,7 +15,6 @@
   <a href="https://guilherme-augusto.vercel.app">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfólio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=guilhermenove&style=for-the-badge&color=58A6FF&label=VISITAS" alt="Visitas"/>
 </p>
 
 ---
@@ -319,22 +318,6 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermenove&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
-
-## Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermenove&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-</p>
-
-## Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermenove/guilhermenove/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermenove/guilhermenove/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/guilhermenove/guilhermenove/output/github-snake-dark.svg" alt="Snake"/>
-  </picture>
 </p>
 
 ---
