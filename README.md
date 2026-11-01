@@ -5,7 +5,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Atua%C3%A7%C3%A3o+direta+com+a+Dire%C3%A7%C3%A3o+Executiva;Forecast+de+compras+para+comex;Lucro+por+nota%3A+de+3+dias+para+5+minutos;R%24+48+mil%2Fano+de+licen%C3%A7a+de+CRM+eliminada" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Atua%C3%A7%C3%A3o+direta+com+a+Dire%C3%A7%C3%A3o+Executiva;Forecast+de+compras+para+comex;Lucro+por+nota%3A+de+3+dias+para+5+minutos;R%24+80+mil%2Fano+de+economia+com+automa%C3%A7%C3%A3o" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -61,14 +61,15 @@ Tenho autonomia para identificar problemas, definir a estratégia e implementar 
 
 ## Impacto
 
-| Medido | Resultado |
+| Resultado | |
 |---|---|
+| Economia anual com melhorias e automações (estimada) | **R$ 80 mil** |
 | Licença de CRM pago eliminada | **R$ 48 mil por ano** |
 | Lucro por nota fiscal | **de 3 dias para 5 minutos** |
 | Fechamento mensal | **de 2 dias para 30 minutos** |
 | Status do pedido no WhatsApp (1ª semana) | **242 mensagens, 0 falhas** |
 
-<sub>Estimado: cerca de 94 h/mês liberadas de tarefas manuais (111 h para 17 h nas 5 rotinas principais).</sub>
+<sub>Cerca de 94 h/mês liberadas de tarefas manuais (111 h para 17 h nas 5 rotinas principais).</sub>
 
 ---
 
