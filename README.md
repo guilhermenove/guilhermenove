@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Dados%20%C2%B7%20Sistemas%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=56&descSize=18" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Estrat%C3%A9gia%20%C2%B7%20Dados%20%C2%B7%20Sistemas&descAlignY=56&descSize=18" width="100%" alt="Banner"/>
 </p>
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Analista+de+Dados+com+reporte+%C3%A0+Diretoria;Forecast+de+compras+para+comex;Lucro+por+nota%3A+de+3+dias+para+5+minutos;R%24+48+mil%2Fano+de+licen%C3%A7a+de+CRM+eliminada" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Atua%C3%A7%C3%A3o+direta+com+a+Dire%C3%A7%C3%A3o+Executiva;Forecast+de+compras+para+comex;Lucro+por+nota%3A+de+3+dias+para+5+minutos;R%24+48+mil%2Fano+de+licen%C3%A7a+de+CRM+eliminada" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -22,36 +22,40 @@
 
 ## Sobre mim
 
-Analista de Dados na **Novello Import** (importação de aço), em Curitiba (PR). Reporto direto à Diretoria.
+Atuo direto com a **Direção Executiva da Novello Import** (importação de aço), em Curitiba (PR), na gestão estratégica e operacional da empresa. Participo de forma transversal das áreas comercial, financeira, logística, comércio exterior e tecnologia.
 
-Atuo na coleta, integração e análise de dados comerciais, financeiros e operacionais. Faço a ponte entre dados e operação: do planejamento de compras em comex à implementação dos sistemas que sustentam a gestão comercial e logística.
+Tenho autonomia para identificar problemas, definir a estratégia e implementar a solução, conectando pessoas, processos, sistemas e dados para ganhar eficiência, cortar custo e melhorar resultado.
 
-**Planejamento**
+**Operações e estratégia**
 
-- Projeção de compras (forecasting) para comex, reduzindo risco de ruptura
-- Projeção de vendas para metas e receita das áreas de negócio
-- Monitoramento de custos e despesas, com foco em desvios e otimização
+- Identificação de gargalos e implementação de soluções em diferentes departamentos
+- Estruturação, padronização e otimização de processos internos
+- Projetos de melhoria contínua e transformação digital
+- Apoio à Diretoria em decisões estratégicas e operacionais
 
-**Análise e BI**
+**Inteligência de negócios e planejamento**
 
-- Dashboards em Power BI de vendas, custos e operação para a Diretoria
-- Análises exploratórias de padrões, tendências e oportunidades
-- Relatórios gerenciais sob demanda da alta gestão
+- Projeções de vendas, demanda e compras para o comercial e o comex
+- Monitoramento de custos, despesas, margens e indicadores de performance
+- Dashboards gerenciais e relatórios executivos em Power BI
+- Análise de tendências, oportunidades comerciais e desempenho operacional
 
-**Engenharia de dados**
+**Tecnologia, sistemas e automação**
 
-- Modelagem de dados e ETL para estruturar bases
-- Integração de CRM, comex, financeiro e WMS em análises consolidadas
-- Qualidade e integridade dos dados
+- Soluções internas para integrar e centralizar dados
+- Implantação e otimização de CRMs (Pipedrive, PipeRun, Agendor, RD Station, Zoho)
+- Implementação e suporte de WMS (Stokki) para estoque e logística
+- Integração de sistemas financeiros, fiscais, comerciais e operacionais via APIs e automações
+- Modelagem de dados, ETL e consolidação de múltiplas fontes
 
-**Sistemas e operação**
+**Financeiro, logística e comércio exterior**
 
-- Implementação de CRMs (Pipedrive, PipeRun, Agendor, RD Station, Zoho) com funil e monitoramento comercial
-- Implementação e suporte de WMS
-- Apoio ao desembaraço aduaneiro, com prazos e indicadores
-- Automação de planilhas e processos
+- Indicadores financeiros e oportunidades de redução de custo
+- Planejamento de importações e acompanhamento do desembaraço aduaneiro
+- Monitoramento de transporte, estoque e expedição
+- Integração de informação entre comercial, financeiro, fiscal e logística
 
-> Traduzo dados complexos em respostas diretas para a liderança.
+> Conecto estratégia, tecnologia e operação para transformar problema de negócio em solução prática e escalável.
 
 ---
 
@@ -290,6 +294,8 @@ Plataforma de dados e IA que construí do zero e está em produção. Junta ERP,
   <img src="https://img.shields.io/badge/Zoho%20CRM-30363D?style=flat-square"/>
   <img src="https://img.shields.io/badge/Bitrix24-30363D?style=flat-square"/>
   <img src="https://img.shields.io/badge/Conta%20Azul-30363D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CFaz-30363D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Highway-30363D?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stokki%20(WMS)-30363D?style=flat-square"/>
   <img src="https://img.shields.io/badge/SEFAZ-30363D?style=flat-square"/>
   <img src="https://img.shields.io/badge/WhatsApp%20API-30363D?style=flat-square"/>
